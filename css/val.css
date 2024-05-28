@@ -1,0 +1,92 @@
+* {padding: 0; margin: 0}
+
+body {
+	background: #83A2FF ; margin top: 25px; color: #fff7fc;
+	font-size: 20px;
+}
+
+header {
+	width: 900px; background: ghostwhite; padding: 25px;
+	margin: auto; text-align: center; color: black;
+}
+
+menu {width: 900px; background: #222831; margin: auto; padding: 25px; }
+
+
+menu a {
+	color: ghostwhite; text-decoration: none;
+	margin-right: 20px;
+}
+
+
+menu a:hover {
+	color: yellow; text-decoration: underline;
+}
+
+article {
+	width: 900px; background: ghostwhite;
+	margin: auto; padding: 25px; text align: justify;
+}
+
+article img {
+	float: left;
+	width: 350px;
+	margin: 0 0 0 0;
+}
+
+article h1 {
+	margin: 0 0 15px 0;
+	color: black;
+}
+
+article p{
+	margin: 0 0 25px 0;
+	color: black;
+}
+
+article h2{
+	margin: auto;
+	text-align: left;
+	color: black;
+}
+
+article h4{
+	width: 800px; background: #5FBDFF; margin: auto;
+	padding: 25px; text-align: left;
+	margin: 25px 0 20px 0;
+	font-size: 20px
+	color: black;
+}
+
+article img {
+	float: right; width: 280px; height: 200px;
+	margin: auto;
+}
+
+article h5 {
+	width: 560px; background:#5FBDFF; margin: 0 0 0 0;
+	padding: 30px;
+	color: ghostwhite;
+	font-size: 20px
+}
+article a {
+	color: yellow; text-decoration: none;
+	margin-right: 20px;
+}
+
+article a:hover {
+	color: yellow; text-decoration: underline;
+}
+
+body h3{
+	width: 900px; background: #222831; padding: 25px;
+	margin: auto; text-align: center; color: ghostwhite;}
+
+	footer {
+		width: 900px; background: ghostwhite;
+		margin: auto; padding: 25px; text-align: center;
+	}
+
+	footer p{
+		color: black;
+	}
